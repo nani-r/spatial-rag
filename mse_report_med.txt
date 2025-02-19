@@ -1,0 +1,4 @@
+
+MSE for GPT-4: 3.07e+04 [19/20 abstained]
+MSE for SpatialRAG - Vector Similarity: 3.04e+03 [15/20 abstained]
+MSE for SpatialRAG - SPARQL: 0.00e+00 [20/20 abstained]

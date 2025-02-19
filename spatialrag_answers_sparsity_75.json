@@ -1,0 +1,365 @@
+{
+    "answers": [
+        {
+            "easy": {
+                "question": "What is the distance between Mildura and Redland City?",
+                "answer": "1294"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Mildura and its closest city?",
+                "answer": "336"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Mildura to Redland City is similar to the distance from Mount Gambier to what other city or town?",
+                "answer": "Gawler"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Orange and Warwick?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Orange and its closest city?",
+                "answer": "207"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Orange to Warwick is similar to the distance from Sydney to what other city or town?",
+                "answer": "Wollongong"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Mildura and Broken Hill?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Mildura and its closest city?",
+                "answer": "Adelaide"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Mildura to Broken Hill is similar to the distance from Ballarat to what other city or town?",
+                "answer": "Griffith"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Bundaberg and Redland City?",
+                "answer": "309"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Bundaberg and its closest city?",
+                "answer": "82"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Bundaberg to Redland City is similar to the distance from Newcastle to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Ballarat and Karratha?",
+                "answer": "I'm sorry, but I don't have the information about the distance between Ballarat and Karratha."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Ballarat and its closest city?",
+                "answer": "79"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Ballarat to Karratha is similar to the distance from Armidale to what other city or town?",
+                "answer": "I'm sorry, but I can't provide the answer because the distance from Ballarat to Karratha is not given in the context."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Wollongong and Port Hedland?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Wollongong and its closest city?",
+                "answer": "68"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Wollongong to Port Hedland is similar to the distance from Gladstone to what other city or town?",
+                "answer": "Townsville"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Broken Hill and Gosford?",
+                "answer": "I'm sorry, but the distance between Broken Hill and Gosford is not provided in the given context."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Broken Hill and its closest city?",
+                "answer": "I'm sorry, but the information provided does not include the distance between Broken Hill and any other city."
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Broken Hill to Gosford is similar to the distance from Newcastle to what other city or town?",
+                "answer": "Cessnock"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Shepparton and Hervey Bay?",
+                "answer": "1420"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Shepparton and its closest city?",
+                "answer": "163"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Shepparton to Hervey Bay is similar to the distance from Gawler to what other city or town?",
+                "answer": "Gosford"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Armidale and Newcastle?",
+                "answer": "268"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Armidale and its closest city?",
+                "answer": "95"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Armidale to Newcastle is similar to the distance from Townsville to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Adelaide and Warwick?",
+                "answer": "I'm sorry, but I don't have the information about the distance between Adelaide and Warwick."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Adelaide and its closest city?",
+                "answer": "230"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Adelaide to Warwick is similar to the distance from Gladstone to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Hobart and Newcastle?",
+                "answer": "1172"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Hobart and its closest city?",
+                "answer": "162"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Hobart to Newcastle is similar to the distance from Toowoomba to what other city or town?",
+                "answer": "Newcastle"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Newcastle and Esperance?",
+                "answer": "I'm sorry, but I don't have the information about the distance between Newcastle and Esperance."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Newcastle and its closest city?",
+                "answer": "42"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Newcastle to Esperance is similar to the distance from Albany to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Gawler and Darwin?",
+                "answer": "2579"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Gawler and its closest city?",
+                "answer": "39"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Gawler to Darwin is similar to the distance from Broome to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Newcastle and Gold Coast?",
+                "answer": "568"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Newcastle and its closest city?",
+                "answer": "42"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Newcastle to Gold Coast is similar to the distance from Port Hedland to what other city or town?",
+                "answer": "I don't know."
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Port Macquarie and Bendigo?",
+                "answer": "991"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Port Macquarie and its closest city?",
+                "answer": "314"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Port Macquarie to Bendigo is similar to the distance from Gold Coast to what other city or town?",
+                "answer": "Bendigo"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Perth and Lismore?",
+                "answer": "3596"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Perth and its closest city?",
+                "answer": "153"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Perth to Lismore is similar to the distance from Bunbury to what other city or town?",
+                "answer": "Brisbane"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Maryborough and Gosford?",
+                "answer": "884"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Maryborough and its closest city?",
+                "answer": "31"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Maryborough to Gosford is similar to the distance from Rockhampton to what other city or town?",
+                "answer": "Brisbane"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Wodonga and Toowoomba?",
+                "answer": "1063"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Wodonga and its closest city?",
+                "answer": "5"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Wodonga to Toowoomba is similar to the distance from Melbourne to what other city or town?",
+                "answer": "I don't know"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Bendigo and Port Hedland?",
+                "answer": "I'm sorry, but I don't have the information about the distance between Bendigo and Port Hedland."
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Bendigo and its closest city?",
+                "answer": "132"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Bendigo to Port Hedland is similar to the distance from Kalgoorlie to what other city or town?",
+                "answer": "Bunbury"
+            }
+        },
+        {
+            "easy": {
+                "question": "What is the distance between Traralgon and Ballarat?",
+                "answer": "246"
+            }
+        },
+        {
+            "medium": {
+                "question": "What's the distance between Traralgon and its closest city?",
+                "answer": "191"
+            }
+        },
+        {
+            "hard": {
+                "question": "The distance from Traralgon to Ballarat is similar to the distance from Mackay to what other city or town?",
+                "answer": "I'm sorry, but I can't provide the information you're looking for."
+            }
+        }
+    ],
+    "execution_time_seconds": 136.651606798172
+}
