@@ -1,1 +1,1 @@
-# spatial-rag
+# SpatialRAG
